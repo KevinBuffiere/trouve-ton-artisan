@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 360" role="img" aria-labelledby="notFoundTitle notFoundDesc">
+  <title id="notFoundTitle">Page non trouvée</title>
+  <desc id="notFoundDesc">Illustration symbolisant une page introuvable</desc>
+  <rect width="520" height="360" fill="#eef4f8" rx="32" />
+  <text x="260" y="150" text-anchor="middle" font-size="120" font-family="'Graphik', 'Helvetica Neue', Arial, sans-serif" fill="#004b87" opacity="0.2">
+    404
+  </text>
+  <path d="M140 220h240" stroke="#00a3a6" stroke-width="14" stroke-linecap="round" />
+  <circle cx="200" cy="220" r="40" fill="#fff" stroke="#004b87" stroke-width="6" />
+  <circle cx="200" cy="220" r="12" fill="#004b87" />
+  <circle cx="320" cy="220" r="40" fill="#fff" stroke="#004b87" stroke-width="6" />
+  <circle cx="320" cy="220" r="12" fill="#004b87" />
+  <path d="M240 260h40" stroke="#004b87" stroke-width="10" stroke-linecap="round" />
+  <circle cx="420" cy="90" r="20" fill="#00a3a6" />
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-labelledby="logoTitle logoDesc">
+  <title id="logoTitle">Trouve ton artisan</title>
+  <desc id="logoDesc">Logo stylisé de la région Auvergne-Rhône-Alpes pour la plateforme Trouve ton artisan</desc>
+  <circle cx="60" cy="60" r="58" fill="#004b87" />
+  <path d="M60 22 26 98h12l8-18h28l8 18h12L60 22Zm0 24 11.5 26h-23Z" fill="#fff" />
+  <circle cx="94" cy="32" r="10" fill="#00a3a6" />
+</svg>
